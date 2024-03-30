@@ -1,4 +1,4 @@
-#EC File Assignment
+##EC File Assignment
 
 ## client:- frontend
 step1:- npm i
@@ -30,5 +30,5 @@ Turn on "Allow less secure apps".
 
 
 # note
-##I'm done in email verification 
-##Mobile verification i want buy third party services So, I'm not implemented
+## I'm done in email verification 
+## Mobile verification i want buy third party services So, I'm not implemented
