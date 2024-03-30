@@ -8,7 +8,7 @@ app.use(cors());
 const PORT = process.env.PORT || 5000;
 
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://traveller:Manoj123@traveller.ots9ysb.mongodb.net/ECFileSolution', {
+mongoose.connect('your-databse-mongodb', {
   useNewUrlParser: true,
   useUnifiedTopology: true
 })

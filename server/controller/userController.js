@@ -9,8 +9,8 @@ const randomstring = require("randomstring");
 const transporter = nodemailer.createTransport({
   service: "Gmail",
   auth: {
-    user: "manoj.h@nestorbird.com",
-    pass: "Manoj@1999",
+    user: "your Gmail id",
+    pass: "your Gmail id Password",
   },
 });
 
@@ -110,7 +110,7 @@ exports.sendOTP = async (req, res) => {
   const otp = generateOTP();
 
   const mailOptions = {
-    from: "manoj.h@nestorbird.com",
+    from: "your email id", 
     to: email,
     subject: "Your One-Time Password (OTP)",
     text: `Your OTP is: ${otp}`,
