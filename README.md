@@ -27,3 +27,8 @@ Turn on "Allow less secure apps".
 2.Create a Gmail Account: If you don't have a Gmail account, you'll need to create one. This will be used as the sender email address.
 
 3.Replace Placeholder Values: In the code snippet you provided, replace the placeholder values 'your_email@gmail.com' and 'your_email_password' with your actual Gmail email address and password, respectively.
+
+
+# note
+##I'm done in email verification 
+##Mobile verification i want buy third party services So, I'm not implemented
